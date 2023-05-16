@@ -71,3 +71,6 @@ some initialization errors are detecting and somer of the codes should be change
 
 
 # screenshots
+ <img src="https://github.com/ironman32022/cv_builder/blob/main/scrteenshots/accountr.jpg">
+ <img src="https://github.com/ironman32022/cv_builder/blob/main/scrteenshots/welcome.jpg">
+ 
