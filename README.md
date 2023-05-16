@@ -65,15 +65,6 @@ resume in pdf format to external apps (eg. email, whatsapp, etc)
     ```
     cd cv_builder
     
-
-
-
-
-# Admin access
-Email:admin@mail.com
-password: admin123
-
-
 ## Bugs
 
 some initialization errors are detecting and somer of the codes should be changed 
