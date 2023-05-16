@@ -59,7 +59,7 @@ resume in pdf format to external apps (eg. email, whatsapp, etc)
 
 - Clone the repo: 
     ```
-    git clone https://github.com/ironman32022/IRIS_211ME262_3_PHP.git
+    git clone git@github.com:ironman32022/cv_builder.git
     ```
 - Move to the base directory:
     ```
